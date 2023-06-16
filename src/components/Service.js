@@ -40,9 +40,9 @@ const Service = ({ dark }) => {
                     <span>What I Do</span>
                     <h3>My Services</h3>
                     <p>
-                      We offer high quality products for competitive prices. Our
-                      main goal is customer satisfaction, which we obtain
-                      through market orientation of ongoing service and support.
+                      We provide superior products at affordable prices. Our primary
+                      objective is to ensure customer contentment, achieved by prioritizing
+                      market orientation and continuous service and assistance.
                     </p>
                   </div>
                 </div>
@@ -62,9 +62,9 @@ const Service = ({ dark }) => {
                     />
                   </span>
                   <div className="title">
-                    <h3>Video Production</h3>
+                    <h3>Instagram account growth</h3>
                     <span className="price">
-                      Starts from <span>$49</span>
+                      Starts from <span>$20</span>
                     </span>
                   </div>
                   <div className="text">
@@ -95,36 +95,40 @@ const Service = ({ dark }) => {
                         />
                       </div>
                       <div className="main_title">
-                        <h3>Video Production</h3>
+                        <h3>Instagram account growth</h3>
                         <span className="price">
-                          Starts from <span>$49</span>
+                          Starts from <span>$20</span>
                         </span>
                       </div>
                       <div className="descriptions">
                         <p>
-                          Aali is a leading web design agency with an
-                          award-winning design team that creates innovative,
-                          effective websites that capture your brand, improve
-                          your conversion rates, and maximize your revenue to
-                          help grow your business and achieve your goals.
+                          Grow with Sayed is a premier web design and digital marketing
+                          agency equipped with an exceptional team of skilled professionals
+                          who specialize in crafting cutting-edge websites and driving
+                          successful Instagram marketing campaigns. We understand that
+                          in today's digital landscape, your website serves as the initial
+                          point of contact for potential customers, with nearly 95 percent
+                          of their first impressions influenced by web design.
                         </p>
                         <p>
-                          In today’s digital world, your website is the first
-                          interaction consumers have with your business.{" "}
-                          {`That's`}
-                          why almost 95 percent of a user’s first impression
-                          relates to web design. It’s also why web design
-                          services can have an immense impact on your company’s
-                          bottom line.
+                          As a result, the web design services we offer hold tremendous potential
+                          to significantly impact your company's bottom line. That's why an
+                          increasing number of businesses are reevaluating their website's design
+                          and choosing to collaborate with Grow with Sayed, a renowned agency
+                          that has generated over $20k in revenue for our valued clients.
                         </p>
                         <p>
-                          That’s why more companies are not only reevaluating
-                          their website’s design but also partnering with Kura,
-                          the web design agency that’s driven more than $2.4
-                          billion in revenue for its clients. With over 50 web
-                          design awards under our belt, {`we're`} confident we
-                          can design a custom website that drives sales for your
-                          unique business.
+                          With a remarkable track record of over three web design awards, we are
+                          confident in our ability to create a custom website that not only showcases
+                          your brand but also enhances conversion rates and maximizes revenue generation.
+                          Additionally, our expertise in Instagram marketing ensures that we can
+                          effectively leverage this powerful platform to propel your business towards
+                          its goals.
+                        </p>
+                        <p>
+                          Choose Grow with Sayed as your trusted partner, and together, we will
+                          revolutionize your online presence, drive sales, and help your business
+                          thrive in the digital realm.
                         </p>
                       </div>
                     </div>
@@ -142,9 +146,9 @@ const Service = ({ dark }) => {
                     />
                   </span>
                   <div className="title">
-                    <h3>Brand Identity</h3>
+                    <h3>Web Development</h3>
                     <span className="price">
-                      Starts from <span>$59</span>
+                      Starts from <span>$100</span>
                     </span>
                   </div>
                   <div className="text">
@@ -175,197 +179,40 @@ const Service = ({ dark }) => {
                         />
                       </div>
                       <div className="main_title">
-                        <h3>Brand Identity</h3>
+                        <h3>Web Development</h3>
                         <span className="price">
-                          Starts from <span>$59</span>
+                          Starts from <span>$100</span>
                         </span>
                       </div>
                       <div className="descriptions">
                         <p>
-                          Aali is a leading web design agency with an
-                          award-winning design team that creates innovative,
-                          effective websites that capture your brand, improve
-                          your conversion rates, and maximize your revenue to
-                          help grow your business and achieve your goals.
+                          Grow with Sayed is a premier web design and digital marketing
+                          agency equipped with an exceptional team of skilled professionals
+                          who specialize in crafting cutting-edge websites and driving
+                          successful Instagram marketing campaigns. We understand that
+                          in today's digital landscape, your website serves as the initial
+                          point of contact for potential customers, with nearly 95 percent
+                          of their first impressions influenced by web design.
                         </p>
                         <p>
-                          {`In today’s digital world, your website is the first
-                            interaction consumers have with your business.
-                            That's why almost 95 percent of a user’s first
-                            impression relates to web design. It’s also why web
-                            design services can have an immense impact on your
-                            company’s bottom line.`}
+                          As a result, the web design services we offer hold tremendous potential
+                          to significantly impact your company's bottom line. That's why an
+                          increasing number of businesses are reevaluating their website's design
+                          and choosing to collaborate with Grow with Sayed, a renowned agency
+                          that has generated over $20k in revenue for our valued clients.
                         </p>
                         <p>
-                          {`That’s why more companies are not only reevaluating
-                            their website’s design but also partnering with
-                            Kura, the web design agency that’s driven more than
-                            $2.4 billion in revenue for its clients. With over
-                            50 web design awards under our belt, we're confident
-                            we can design a custom website that drives sales for
-                            your unique business.`}
-                        </p>
-                      </div>
-                    </div>
-                  </ModalBox>
-                </div>
-              </li>
-              <li
-                className="wow fadeInRight"
-                data-wow-duration="1s"
-                data-wow-delay="0.2s"
-              >
-                <div className="list_inner tilt-effect">
-                  <span className="icon">
-                    {dark ? penDark : pen}
-                    <img
-                      className="back"
-                      src={`img/svg/service${dark ? "-dark" : ""}.png`}
-                      alt="service"
-                    />
-                  </span>
-                  <div className="title">
-                    <h3>Creative Writing</h3>
-                    <span className="price">
-                      Starts from <span>$69</span>
-                    </span>
-                  </div>
-                  <div className="text">
-                    <p>
-                      Aali is a leading web design agency with an award-winning
-                      design team that creates innovative, effective websites{" "}
-                    </p>
-                  </div>
-                  <a
-                    className="aali_tm_full_link"
-                    href="#"
-                    onClick={() => setModal(3)}
-                  />
-                  <img
-                    className="popup_service_image"
-                    src="img/service/2.jpg"
-                    alt="aali image"
-                  />
-                </div>
-                <div className={hidden(3)}>
-                  <ModalBox close={setModal}>
-                    <div className="service_popup_informations">
-                      <div className="image">
-                        <img src="img/thumbs/4-2.jpg" alt="aali image" />
-                        <div
-                          className="main"
-                          data-img-url="img/service/2.jpg"
-                        />
-                      </div>
-                      <div className="main_title">
-                        <h3>Creative Writing</h3>
-                        <span className="price">
-                          Starts from <span>$69</span>
-                        </span>
-                      </div>
-                      <div className="descriptions">
-                        <p>
-                          Aali is a leading web design agency with an
-                          award-winning design team that creates innovative,
-                          effective websites that capture your brand, improve
-                          your conversion rates, and maximize your revenue to
-                          help grow your business and achieve your goals.
+                          With a remarkable track record of over three web design awards, we are
+                          confident in our ability to create a custom website that not only showcases
+                          your brand but also enhances conversion rates and maximizes revenue generation.
+                          Additionally, our expertise in Instagram marketing ensures that we can
+                          effectively leverage this powerful platform to propel your business towards
+                          its goals.
                         </p>
                         <p>
-                          {`In today’s digital world, your website is the first
-                            interaction consumers have with your business.
-                            That's why almost 95 percent of a user’s first
-                            impression relates to web design. It’s also why web
-                            design services can have an immense impact on your
-                            company’s bottom line.`}
-                        </p>
-                        <p>
-                          {`That’s why more companies are not only reevaluating
-                            their website’s design but also partnering with
-                            Kura, the web design agency that’s driven more than
-                            $2.4 billion in revenue for its clients. With over
-                            50 web design awards under our belt, we're confident
-                            we can design a custom website that drives sales for
-                            your unique business.`}
-                        </p>
-                      </div>
-                    </div>
-                  </ModalBox>
-                </div>
-              </li>
-              <li className="wow fadeInLeft" data-wow-duration="1s">
-                <div className="list_inner tilt-effect">
-                  <span className="icon">
-                    {dark ? userDark : user}
-                    <img
-                      className="back"
-                      src={`img/svg/service${dark ? "-dark" : ""}.png`}
-                      alt="service"
-                    />
-                  </span>
-                  <div className="title">
-                    <h3>Digital Marketing</h3>
-                    <span className="price">
-                      Starts from <span>$79</span>
-                    </span>
-                  </div>
-                  <div className="text">
-                    <p>
-                      Aali is a leading web design agency with an award-winning
-                      design team that creates innovative, effective websites{" "}
-                    </p>
-                  </div>
-                  <a
-                    className="aali_tm_full_link"
-                    href="#"
-                    onClick={() => setModal(4)}
-                  />
-                  <img
-                    className="popup_service_image"
-                    src="img/service/4.jpg"
-                    alt="aali image"
-                  />
-                </div>
-                <div className={hidden(4)}>
-                  <ModalBox close={setModal}>
-                    <div className="service_popup_informations">
-                      <div className="image">
-                        <img src="img/thumbs/4-2.jpg" alt="aali image" />
-                        <div
-                          className="main"
-                          data-img-url="img/service/4.jpg"
-                        />
-                      </div>
-                      <div className="main_title">
-                        <h3>Digital Marketing</h3>
-                        <span className="price">
-                          Starts from <span>$79</span>
-                        </span>
-                      </div>
-                      <div className="descriptions">
-                        <p>
-                          Aali is a leading web design agency with an
-                          award-winning design team that creates innovative,
-                          effective websites that capture your brand, improve
-                          your conversion rates, and maximize your revenue to
-                          help grow your business and achieve your goals.
-                        </p>
-                        <p>
-                          {`In today’s digital world, your website is the first
-                            interaction consumers have with your business.
-                            That's why almost 95 percent of a user’s first
-                            impression relates to web design. It’s also why web
-                            design services can have an immense impact on your
-                            company’s bottom line.`}
-                        </p>
-                        <p>
-                          {`That’s why more companies are not only reevaluating
-                            their website’s design but also partnering with
-                            Kura, the web design agency that’s driven more than
-                            $2.4 billion in revenue for its clients. With over
-                            50 web design awards under our belt, we're confident
-                            we can design a custom website that drives sales for
-                            your unique business.`}
+                          Choose Grow with Sayed as your trusted partner, and together, we will
+                          revolutionize your online presence, drive sales, and help your business
+                          thrive in the digital realm.
                         </p>
                       </div>
                     </div>

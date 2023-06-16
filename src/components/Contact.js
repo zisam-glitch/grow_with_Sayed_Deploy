@@ -20,10 +20,10 @@ const Contact = () => {
     } else {
       emailjs
         .send(
-          "service_seruhwu", // service id
-          "template_21aw58z", // template id
+          "service_ygjtsvn", // service id
+          "template_rzizy2q", // template id
           mailData,
-          "Q3pccdLZhU-mZT7tQ" // public api
+          "z4QBvFocTTCJtrpLP" // public api
         )
         .then(
           (response) => {
@@ -68,7 +68,7 @@ const Contact = () => {
                   <div className="list_inner">
                     {call}
                     <span>Call me</span>
-                    <h3>+1234 5678 9000</h3>
+                    <h3>+880 16395 01551</h3>
                   </div>
                 </li>
                 <li>
@@ -76,8 +76,8 @@ const Contact = () => {
                     {emailIcon}
                     <span>Email</span>
                     <h3>
-                      <a className="line_anim" href="mailto:hello@aali.com">
-                        hello@aali.com
+                      <a className="line_anim" href="mailto:sayedshohagrahman@gmail.com">
+                        Sayedshohagrahman@gmail.com
                       </a>
                     </h3>
                   </div>

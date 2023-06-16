@@ -22,9 +22,9 @@ const Skills = () => {
                   <br /> I Can Do
                 </h3>
                 <p>
-                  I am working on a professional, visually sophisticated and
-                  technologically proficient, responsive and multi-functional
-                  creative personal resume portfolio template Aali
+                  I am working on a professional, visually sophisticated and technologically
+                   proficient, responsive and multi-functional creative personal resume 
+                   portfolio template Sayed
                 </p>
               </div>
             </div>
@@ -32,7 +32,7 @@ const Skills = () => {
               <div className="dodo_progress">
                 <div className="progress_inner skillsInner___" data-value={86}>
                   <span>
-                    <span className="label">Website Design</span>
+                    <span className="label">Web Development</span>
                     <span className="number">86%</span>
                   </span>
                   <div className="background">
@@ -43,19 +43,8 @@ const Skills = () => {
                 </div>
                 <div className="progress_inner skillsInner___" data-value={90}>
                   <span>
-                    <span className="label">Mobile Application</span>
+                    <span className="label">Instagram Marketing</span>
                     <span className="number">90%</span>
-                  </span>
-                  <div className="background">
-                    <div className="bar">
-                      <div className="bar_in" />
-                    </div>
-                  </div>
-                </div>
-                <div className="progress_inner skillsInner___" data-value={66}>
-                  <span>
-                    <span className="label">Game Programming</span>
-                    <span className="number">66%</span>
                   </span>
                   <div className="background">
                     <div className="bar">

@@ -18,28 +18,28 @@ const Home = () => {
           <div className="hero_inner">
             <div className="content">
               <span className="hello">Hello, {`I'm`}</span>
-              <h3 className="name">Aali</h3>
+              <h3 className="name">Sayed</h3>
               <div className="job">
                 <span className="cd-headline rotate-1">
                   {" "}
                   {/* ANIMATE TEXT VALUES: zoom, rotate-1, letters type, letters rotate-2, loading-bar, slide, clip, letters rotate-3, letters scale, push,  */}
-                  <span className="blc">Creative </span>
+                  <span className="blc"></span>
                   <span className="cd-words-wrapper">
                     <b className={text === 1 ? "is-visible" : "is-hidden"}>
-                      Designer
+                      Creative  Designer
                     </b>
                     <b className={text === 2 ? "is-visible" : "is-hidden"}>
-                      Developer
+                      Instagram Marketer
                     </b>
                     <b className={text === 3 ? "is-visible" : "is-hidden"}>
-                      Freelancer
+                      Creative  Designer
                     </b>
                   </span>
                 </span>
               </div>
               <div className="hero_buttons">
                 <div className="aali_tm_button">
-                  <a className="anchor" href="#contact">
+                  <a className="anchor" href="mailto:sayedshohagrahman@gmail.com">
                     <span>Say Hello {msg}</span>
                   </a>
                 </div>
@@ -115,7 +115,7 @@ const Home = () => {
                 <span className="in layer" data-depth="0.3" />
               </span>
               <h3 className="stroke_text">
-                <span>Aali</span>
+                <span>Sayd</span>
               </h3>
             </div>
           </div>
@@ -134,8 +134,8 @@ const Home = () => {
           </ul>
         </div>
         <div className="hero_mail">
-          <a className="line_anim" href="#">
-            hello@aali.com
+          <a className="line_anim" href="mailto:sayedshohagrahman@gmail.com">
+          Sayedshohagrahman@gmail.com
           </a>
         </div>
       </div>

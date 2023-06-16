@@ -27,12 +27,12 @@ const About = () => {
             <div className="title wow fadeInUp" data-wow-duration="1s">
               <span className="small">About Me</span>
               <h3>
-                {`I'm`} <span>Aali</span>
+                {`I'm`} <span>Sayed</span>
               </h3>
               <h3>
-                Web <span>Designer</span>
+                Instagram <span>Marketer</span>
               </h3>
-              <span className="subtitle">Based in London,UK</span>
+              <span className="subtitle">Based in Barisal,BD</span>
             </div>
             <div
               className="text wow fadeInUp"
@@ -40,13 +40,16 @@ const About = () => {
               data-wow-delay="0.2s"
             >
               <p>
-                Hi! My name is Aali Walker. I am UI/UX designer, and {`I'm`}{" "}
-                very passionate and dedicated to my work.
-              </p>
-              <p>
-                With 20 years experience as a professional graphic designer and
-                web developer, I have acquired the skills and knowledge
-                necessary to make your project a success.
+              As an experienced web developer and Instagram marketer,
+               I bring a wealth of expertise to help businesses thrive in 
+               the digital landscape. With years of hands-on experience, I 
+               specialize in creating visually stunning websites that seamlessly 
+               integrate with effective marketing strategies.
+              By leveraging my skills in web development and Instagram marketing, 
+              I help clients establish a strong online presence and achieve their
+               business goals. Trust me to deliver top-notch solutions that drive 
+               traffic, engagement, and conversions. Let's collaborate and take your 
+               online presence to new heights!
               </p>
             </div>
             <div
