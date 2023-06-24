@@ -29,10 +29,10 @@ const Home = () => {
                       Creative  Designer
                     </b>
                     <b className={text === 2 ? "is-visible" : "is-hidden"}>
-                      Instagram Marketer
+                      Web Developer
                     </b>
                     <b className={text === 3 ? "is-visible" : "is-hidden"}>
-                      Creative  Designer
+                      Instagram Marketer
                     </b>
                   </span>
                 </span>
@@ -133,11 +133,11 @@ const Home = () => {
             </li>
           </ul>
         </div>
-        <div className="hero_mail">
+        {/* <div className="hero_mail">
           <a className="line_anim" href="mailto:sayedshohagrahman@gmail.com">
-          Sayedshohagrahman@gmail.com
+            Sayedshohagrahman@gmail.com
           </a>
-        </div>
+        </div> */}
       </div>
     </div>
   );

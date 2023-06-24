@@ -32,7 +32,7 @@ const About = () => {
               <h3>
                 Instagram <span>Marketer</span>
               </h3>
-              <span className="subtitle">Based in Barisal,BD</span>
+              {/* <span className="subtitle">Based in Barisal,BD</span> */}
             </div>
             <div
               className="text wow fadeInUp"

@@ -18,13 +18,15 @@ const Skills = () => {
               >
                 <span>My Skills</span>
                 <h3>
-                  You Can Imagine
+                  You Can Imagine What
                   <br /> I Can Do
                 </h3>
                 <p>
-                  I am working on a professional, visually sophisticated and technologically
-                   proficient, responsive and multi-functional creative personal resume 
-                   portfolio template Sayed
+                  I am in the process of developing an impressive and visually appealing
+                  personal resume portfolio template that reflects my professional expertise
+                  in Instagram marketing and web development. This template will be visually
+                  sophisticated, technologically advanced, and responsive, offering multiple
+                  functionalities to showcase my creative skills and professional achievements.
                 </p>
               </div>
             </div>

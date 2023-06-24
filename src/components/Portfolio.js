@@ -69,20 +69,20 @@ const Portfolio = () => {
                 </a>
               </li>
               <li>
-                <a onClick={handleFilterKeyChange("vimeo")}>Vimeo</a>
+                <a onClick={handleFilterKeyChange("vimeo")}>Websites</a>
               </li>
               <li>
-                <a onClick={handleFilterKeyChange("youtube")}>Youtube</a>
+                <a onClick={handleFilterKeyChange("youtube")}>Instagram Account Growth</a>
               </li>
               <li>
-                <a onClick={handleFilterKeyChange("soundcloud")}>Soundcloud</a>
+                <a onClick={handleFilterKeyChange("soundcloud")}>Content Creation</a>
               </li>
               <li>
-                <a onClick={handleFilterKeyChange("image")}>Image</a>
+                <a onClick={handleFilterKeyChange("image")}>Reels Editing</a>
               </li>
-              <li>
+              {/* <li>
                 <a onClick={handleFilterKeyChange("detail")}>Detail</a>
-              </li>
+              </li> */}
             </ul>
           </div>
           <div className="portfolio_list">
