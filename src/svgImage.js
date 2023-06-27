@@ -1,37 +1,37 @@
 const fb = (
-    <svg
-      xmlns="http://www.w3.org/2000/svg"
-      xmlnsXlink="http://www.w3.org/1999/xlink"
-      version="1.1"
-      x="0px"
-      y="0px"
-      width="96.124px"
-      height="96.123px"
-      viewBox="0 0 96.124 96.123"
-      style={{ enableBackground: "new 0 0 96.124 96.123" }}
-      xmlSpace="preserve"
-      className="svg replaced-svg"
-    >
-      <g>
-        <path d="M72.089,0.02L59.624,0C45.62,0,36.57,9.285,36.57,23.656v10.907H24.037c-1.083,0-1.96,0.878-1.96,1.961v15.803   c0,1.083,0.878,1.96,1.96,1.96h12.533v39.876c0,1.083,0.877,1.96,1.96,1.96h16.352c1.083,0,1.96-0.878,1.96-1.96V54.287h14.654   c1.083,0,1.96-0.877,1.96-1.96l0.006-15.803c0-0.52-0.207-1.018-0.574-1.386c-0.367-0.368-0.867-0.575-1.387-0.575H56.842v-9.246   c0-4.444,1.059-6.7,6.848-6.7l8.397-0.003c1.082,0,1.959-0.878,1.959-1.96V1.98C74.046,0.899,73.17,0.022,72.089,0.02z" />
-      </g>
-      <g />
-      <g />
-      <g />
-      <g />
-      <g />
-      <g />
-      <g />
-      <g />
-      <g />
-      <g />
-      <g />
-      <g />
-      <g />
-      <g />
-      <g />
-    </svg>
-  ),
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    xmlnsXlink="http://www.w3.org/1999/xlink"
+    version="1.1"
+    x="0px"
+    y="0px"
+    width="96.124px"
+    height="96.123px"
+    viewBox="0 0 96.124 96.123"
+    style={{ enableBackground: "new 0 0 96.124 96.123" }}
+    xmlSpace="preserve"
+    className="svg replaced-svg"
+  >
+    <g>
+      <path d="M72.089,0.02L59.624,0C45.62,0,36.57,9.285,36.57,23.656v10.907H24.037c-1.083,0-1.96,0.878-1.96,1.961v15.803   c0,1.083,0.878,1.96,1.96,1.96h12.533v39.876c0,1.083,0.877,1.96,1.96,1.96h16.352c1.083,0,1.96-0.878,1.96-1.96V54.287h14.654   c1.083,0,1.96-0.877,1.96-1.96l0.006-15.803c0-0.52-0.207-1.018-0.574-1.386c-0.367-0.368-0.867-0.575-1.387-0.575H56.842v-9.246   c0-4.444,1.059-6.7,6.848-6.7l8.397-0.003c1.082,0,1.959-0.878,1.959-1.96V1.98C74.046,0.899,73.17,0.022,72.089,0.02z" />
+    </g>
+    <g />
+    <g />
+    <g />
+    <g />
+    <g />
+    <g />
+    <g />
+    <g />
+    <g />
+    <g />
+    <g />
+    <g />
+    <g />
+    <g />
+    <g />
+  </svg>
+),
   twitter = (
     <svg
       xmlns="http://www.w3.org/2000/svg"
@@ -644,12 +644,16 @@ const fb = (
         fill="#ea4343"
       />
     </svg>
+  ),
+  instagram = (
+    <svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><rect fill="#c2c2c2" height="26" opacity=".3" rx="8" stroke="#c2c2c2" stroke-linecap="round" stroke-width="4" width="26" x="10" y="10" class="fill-7ab0ef stroke-7ab0ef"></rect><g transform="translate(7 7)"><circle cx="13" cy="13" r="5" stroke="#ea4343" stroke-width="4" class="stroke-113e73"></circle><circle cx="20" cy="5" fill="#ea4343" r="1" class="fill-113e73"></circle><path d="M8 0h10a8 8 0 0 1 8 8v10a8 8 0 0 1-8 8H8a8 8 0 0 1-8-8V8M8 0a7.99 7.99 0 0 0-2.597.431M.543 5.098A7.938 7.938 0 0 0 0 8" stroke="#ea4343" stroke-linecap="round" stroke-width="4" class="stroke-113e73"></path></g></g></svg>
   );
 
 export {
   fb,
   twitter,
   insta,
+  instagram,
   msg,
   download,
   edu,

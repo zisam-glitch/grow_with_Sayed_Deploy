@@ -498,7 +498,7 @@ h6 { font-size: 16px; }
 	font-family: "Josefin Sans";
 }
 .aali_tm_hero .cd-headline b{
-	font-size: 75px;
+	font-size: 65px;
 }
 .aali_tm_hero .content .second span{
 	font-size: 75px;
@@ -1596,6 +1596,15 @@ h6 { font-size: 16px; }
 .aali_tm_service .service_list .icon .back{
 	position: absolute;
 	top: 0px;
+	left: 0px;
+}
+.aali_tm_service .service_list .icon .inta{
+	z-index: 9;
+	position: absolute;
+	width: 86px;
+    left: 10%;
+    top: 20px;
+	
 }
 .aali_tm_service .service_list .wrapper{
 	position: absolute;

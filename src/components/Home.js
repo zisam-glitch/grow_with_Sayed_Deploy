@@ -26,13 +26,13 @@ const Home = () => {
                   <span className="blc"></span>
                   <span className="cd-words-wrapper">
                     <b className={text === 1 ? "is-visible" : "is-hidden"}>
-                      Creative  Designer
-                    </b>
-                    <b className={text === 2 ? "is-visible" : "is-hidden"}>
                       Web Developer
                     </b>
+                    <b className={text === 2 ? "is-visible" : "is-hidden"}>
+                    Instagram Marketer
+                    </b>
                     <b className={text === 3 ? "is-visible" : "is-hidden"}>
-                      Instagram Marketer
+                      Web Developer
                     </b>
                   </span>
                 </span>

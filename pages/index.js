@@ -22,10 +22,10 @@ const Index = () => {
       <Skills />
       <Portfolio />
       <Service />
-      <Resume />
+      {/* <Resume /> */}
       <Testimonial />
-      <Blog />
-      <Counter />
+      {/* <Blog />
+      <Counter /> */}
       <Contact />
     </Layout>
   );
